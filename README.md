@@ -19,7 +19,7 @@ Some of the app core includes
 # Network
 ![Network-flow](fasilie-networking.png)
 
-# Activity/Fragment
+# View
 TODO
 
 # ViewModel
@@ -28,7 +28,7 @@ TODO
 # Repository
 TODO
 
-# Build info:
+# Build info
   - Android Studio - 3.1 Canary 8
   - Compile SDK - 27
   - Min SDK - 21, Target SDK - 27
